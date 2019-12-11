@@ -12,7 +12,7 @@
         <div class="login">
             <form action="" method="POST" class="main-form">
                 <div class="header">
-                    <img src="assets/images/devale_logo.png" class="logo-img" />
+                    <img src="assets/images/logo.png" class="logo-img" />
                 </div>
                 <div class="content">
 
