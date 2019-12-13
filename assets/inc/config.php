@@ -11,7 +11,7 @@ header('Content-Type: text/html; charset=utf-8');
     Database Configuration
 */
 $config['database']['host'] = 'localhost';
-$config['database']['name'] = 'savate_payments';
+$config['database']['name'] = 'database_name';
 $config['database']['username'] = 'root';
 $config['database']['password'] = '';
 
